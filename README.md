@@ -21,6 +21,7 @@
 
 ### Things not take into consideration
 - Testing
+- Accessibility
 - Fully mobile responsiveness
 
 ### Extra:

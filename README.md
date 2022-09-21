@@ -3,13 +3,9 @@
 ### Todos:
 
 - [x] sync notes with localStorage
-
 - [x] move modified notes to the top of the list
-
 - [x] delete notes
-
 - [x] archive notes
-
 - [x] sortable with dragging
 
 

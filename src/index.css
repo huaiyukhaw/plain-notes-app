@@ -1,3 +1,18 @@
+@import url("https://rsms.me/inter/inter.css");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .sortable-chosen {
+    @apply z-10;
+  }
+
+  .sortable-ghost {
+    @apply opacity-0;
+  }
+
+  .sortable-drag {
+    @apply bg-red-500 !opacity-100;
+  }
+}

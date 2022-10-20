@@ -15,7 +15,7 @@ export const Footer: React.FC = () => (
     </div>
     <a
       href="#"
-      className="drop-shadow-default hover:drop-shadow-darker flex items-center gap-1 rounded-lg bg-gray-200 p-3 py-1.5 text-sm font-medium hover:bg-gray-300"
+      className="flex items-center gap-1 rounded-lg bg-gray-200 p-3 py-1.5 text-sm font-medium drop-shadow hover:bg-gray-300"
     >
       <GoMarkGithub />
       View on GitHub

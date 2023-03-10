@@ -20,7 +20,7 @@ export const NoteProvider: FC<PropsWithChildren> = ({ children }) => {
   const [showArchived, setShowArchived] = useState<boolean>(false);
 
   useEffect(() => {
-    const appData = localStorage.getItem("h8w-notes-app-data");
+    const appData = localStorage.getItem("plain-notes-app-data");
     if (appData) {
       const savedNotes = JSON.parse(appData);
       if (savedNotes) {
@@ -32,7 +32,7 @@ export const NoteProvider: FC<PropsWithChildren> = ({ children }) => {
 
   useEffect(() => {
     if (retrievedSavedData) {
-      localStorage.setItem("h8w-notes-app-data", JSON.stringify(notes));
+      localStorage.setItem("plain-notes-app-data", JSON.stringify(notes));
     }
   }, [notes]);
 

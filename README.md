@@ -1,4 +1,4 @@
-# Minimal notes app
+# Plain notes app
 
 ### Todos:
 

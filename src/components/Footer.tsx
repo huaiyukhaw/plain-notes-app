@@ -14,7 +14,7 @@ export const Footer: React.FC = () => (
       </a>
     </div>
     <a
-      href="https://github.com/huaiyukhaw/minimal-notes-app"
+      href="https://github.com/huaiyukhaw/plain-notes-app"
       className="flex items-center gap-1 rounded-lg bg-gray-200 p-3 py-1.5 text-sm font-medium drop-shadow hover:bg-gray-300"
     >
       <GoMarkGithub />

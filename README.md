@@ -1,8 +1,8 @@
-# Project Name
+# Plain Notes App
 
 > Note taking application that saves data locally in the user’s browser LocalStorage for convenient access.
 
-One or two paragraphs about your project and what it does.
+Try it! [notes.huaiyukhaw.com](https://notes.huaiyukhaw.com)
 
 ---
 ## Author

@@ -18,19 +18,19 @@ This project was designed to demonstrate:
 
 * Usage of React with Typescript and TailwindCSS
 * Practice CRUD operations and array manipulation
-* Allow user to create, delete, archive, or pin notes.
+* Create, delete, archive, or pin notes.
 * Sync notes to browser's localStorage
 * Drag and drop for sorting
+* Keyboard shortcuts for convenience
 
 ## Usage example
 
 Sometimes while I'm working, I come across trivial tasks that I need to quickly note down in order to save mental energy and avoid repeatedly reminding myself. Later, before leaving my desk, I can review these notes and ensure that I have completed all necessary tasks.
 
----
+## Screenshots
 
-## Installation
-
-You don't need to sign up or install anything. Simply visit [notes.huaiyukhaw.com](https://notes.huaiyukhaw.com). 
+![image](https://user-images.githubusercontent.com/31930091/224719606-563cfc33-cc80-4b5b-a5b7-eeb0b44aada8.png)
+![image](https://user-images.githubusercontent.com/31930091/224720623-64ad7bde-484e-4751-a299-1399c26b1ca3.png)
 
 ---
 

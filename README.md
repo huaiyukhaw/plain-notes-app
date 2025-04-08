@@ -2,15 +2,18 @@
 
 > Note taking application that saves data locally in the user’s browser LocalStorage for convenient access.
 
-Try it! [notes.huaiyukhaw.com](https://notes.huaiyukhaw.com)
+Try it! [notes.huaiyukhaw.com](https://notes.huaiyukhaw.com) 
+
 
 ---
+
 ## Author
 
-**Huaiyu Khaw** 
-- *Initial work* - [Plain Notes App](https://github.com/huaiyukhaw/plain-notes-app) (GitHub)
-- *Released on* [Vercel](https://vercel.com)
-- *My professional profile on* [LinkedIn](https://www.linkedin.com/in/huaiyukhaw)
+**Huaiyu Khaw**
+
+* *Initial work* - [Plain Notes App](https://github.com/huaiyukhaw/plain-notes-app) (GitHub)
+* *Released on* [Vercel](https://vercel.com)
+* *My professional profile on* [LinkedIn](https://www.linkedin.com/in/huaiyukhaw)
 
 ## Showcase
 
@@ -29,8 +32,9 @@ Sometimes while I'm working, I come across trivial tasks that I need to quickly 
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/31930091/224719606-563cfc33-cc80-4b5b-a5b7-eeb0b44aada8.png)
-![image](https://user-images.githubusercontent.com/31930091/224720623-64ad7bde-484e-4751-a299-1399c26b1ca3.png)
+ ![image](https://user-images.githubusercontent.com/31930091/224719606-563cfc33-cc80-4b5b-a5b7-eeb0b44aada8.png)
+ ![image](https://user-images.githubusercontent.com/31930091/224720623-64ad7bde-484e-4751-a299-1399c26b1ca3.png)
+
 
 ---
 
@@ -40,6 +44,7 @@ Sometimes while I'm working, I come across trivial tasks that I need to quickly 
 npm install
 npm run dev
 ```
+
 
 ---
 
@@ -52,12 +57,16 @@ npm run dev
 * [dnd-kit](https://dndkit.com) - drag & drop toolkit
 * [Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 
+
 ---
 
 ## Contributing
+
 
 1. Fork it (<https://github.com/huaiyukhaw/plain-notes-app/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
+

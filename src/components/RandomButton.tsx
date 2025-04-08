@@ -5,7 +5,7 @@ import { FaMagic } from "react-icons/fa";
 export const RandomButton: React.FC = () => {
   const { uploadNote } = useNoteContext();
 
-  const handleGenerateButton = () => {
+  const handleGenerateButton = async () => {
     const randomTitle = loremIpsum({
       count: 1,
       units: "sentences",
@@ -15,6 +15,7 @@ export const RandomButton: React.FC = () => {
       units: "paragraphs",
     });
     uploadNote(randomTitle, randomContent);
+    await navigator.clipboard.writeText(randomTitle + ' ' + randomContent);
   };
 
   return (
